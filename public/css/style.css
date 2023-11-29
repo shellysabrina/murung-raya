@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #D21312;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    max-width: 1200px;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0.1);
+}
+
+.login {
+    width: 600px;
+}
+
+form {
+    width: 400px;
+    margin: 70px auto;
+}
+
+h1 {
+    margin: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+hr {
+    border-top: 2px solid #fff;
+}
+
+p {
+    text-align: center;
+    margin: 20px;
+    font-size: 24px;
+}
+
+.right img {
+    width: 550px;
+    height: 100%;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+form label {
+    display: block;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 5px;
+}
+
+input {
+    width: 100%;
+    margin: 2px;
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 30px;
+    border: 1px solid gray;
+    font-size: 16px;
+}
+
+button {
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 400px;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 30px;
+    background: #D21312;
+}
+
+button:hover {
+    background: rgba(214, 86, 64, 1);
+}
+
+@media (max-width: 880) {
+    .container {
+        width: 100%;
+        max-width: 750px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    form {
+        width: 300px;
+        margin: 20px auto;
+    }
+
+    .login {
+        width: 400px;
+        padding: 20px;
+    }
+
+    button {
+        width: 100%;
+    }
+
+    .right img {
+        width: 100%;
+        height: 100%;
+    }
+}
