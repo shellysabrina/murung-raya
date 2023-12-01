@@ -28,3 +28,7 @@ Route::get('/daftar', function () {
 Route::get('/dashboard', function () {
     return view('dashboard');
 });
+
+Route::get('/pajak-perdesaan', function () {
+    return view('pajak-perdesaan');
+});
