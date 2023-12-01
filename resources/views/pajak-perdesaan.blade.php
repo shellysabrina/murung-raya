@@ -36,13 +36,13 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-4">
-                                        <input type="checkbox" name="keperluan[]" value="Server Hardware Maintenance"> Perekaman Data<br>
+                                        <input type="checkbox" name="keperluan[]" value="Perekaman Data"> Perekaman Data<br>
                                     </div>
                                     <div class="col-4">
-                                        <input type="checkbox" name="keperluan[]" value="Server Hardware Maintenance"> Pemutakhiran Data<br>
+                                        <input type="checkbox" name="keperluan[]" value="Pemutakhiran Data"> Pemutakhiran Data<br>
                                     </div>
                                     <div class="col-4">
-                                        <input type="checkbox" name="keperluan[]" value="Server Hardware Maintenance"> Penghapusan Data<br>
+                                        <input type="checkbox" name="keperluan[]" value="Penghapusan Data"> Penghapusan Data<br>
                                     </div>
                                 </div>
 
@@ -173,9 +173,92 @@
                                         </div>
                                     </div>
                                 </div>
-
-
-
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="form_name">Kelurahan:</label>
+                                            <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="form_name">RT/RW:</label>
+                                            <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="form_name">Kecamtan:</label>
+                                            <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
+                                        </div>
+                                    </div>
+                                </div>
+                                <h7>DATA SUBJEK PAJAK</h7>
+                                <div class="row">
+                                    <div class="col-12">
+                                        <h6>Status :</h6>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-2">
+                                        <input type="checkbox" name="keperluan[]" value="Pemilik"> Pemilik<br>
+                                    </div>
+                                    <div class="col-2">
+                                        <input type="checkbox" name="keperluan[]" value="Penyewa"> Penyewa<br>
+                                    </div>
+                                    <div class="col-2">
+                                        <input type="checkbox" name="keperluan[]" value="Pengelola"> Pengelola<br>
+                                    </div>
+                                    <div class="col-2">
+                                        <input type="checkbox" name="keperluan[]" value="Pemakai"> Pemakai<br>
+                                    </div>
+                                    <div class="col-2">
+                                        <input type="checkbox" name="keperluan[]" value="Sengketa"> Sengketa<br>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12">
+                                        <h6>Pekerjaan :</h6>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-2">
+                                        <input type="checkbox" name="keperluan[]" value="Perekaman Data"> PNS*<br>
+                                    </div>
+                                    <div class="col-2">
+                                        <input type="checkbox" name="keperluan[]" value="Pemutakhiran Data"> TNI/POLRI*<br>
+                                    </div>
+                                    <div class="col-2">
+                                        <input type="checkbox" name="keperluan[]" value="Penghapusan Data">PENSIUNAN*<br>
+                                    </div>
+                                    <div class="col-2">
+                                        <input type="checkbox" name="keperluan[]" value="Penghapusan Data"> BIDAN<br>
+                                    </div>
+                                    <div class="col-2">
+                                        <input type="checkbox" name="keperluan[]" value="Penghapusan Data"> LAINNYA<br>
+                                    </div>
+                                </div>
+                                <h6>*yang penghasilannya semata-mata berasal dari gaji/uang pensiunan</h6>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="form_name">Nama Subjek Pajak:</label>
+                                            <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="form_name">NPWP:</label>
+                                            <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
+                                        </div>
+                                    </div>
+                                </div>
 
 
 
