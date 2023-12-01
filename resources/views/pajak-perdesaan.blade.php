@@ -6,7 +6,7 @@
         {{--kertas form--}}
     </div>
     <div class="row ">
-        <div class="col-lg-12 mx-auto">
+        <div class="col-lg-10 mx-auto">
             <div class="card mt-2 mx-auto p-4 bg-light">
                 <div class="card-body bg-light">
 
@@ -115,6 +115,49 @@
                                 </div>
                                 <br>
                                 <h7>INFORMASI TAMBAHAN UNTUK DATA BARU</h7>
+                                <div class="row">
+                                    <div class="col-12">
+                                        <h6>NOP Asal:</h6>
+                                    </div>
+                                    <div class="col-1">
+                                        <label class="form-label">Prov:</label>
+                                        <input type="text" name="nop" class="form-control">
+                                    </div>
+                                    <div class="col-1">
+                                        <label class="form-label">Kota/Kab:</label>
+                                        <input type="text" name="nop" class="form-control">
+                                    </div>
+                                    <div class="col-2">
+                                        <label class="form-label">Kec:</label>
+                                        <input type="text" name="nop" class="form-control">
+                                    </div>
+                                    <div class="col-2">
+                                        <label class="form-label">Kel:</label>
+                                        <input type="text" name="nop" class="form-control">
+                                    </div>
+                                    <div class="col-2">
+                                        <label class="form-label">Blok:</label>
+                                        <input type="text" name="nop" class="form-control">
+                                    </div>
+                                    <div class="col-3">
+                                        <label class="form-label">No.Urut:</label>
+                                        <input type="text" name="nop" class="form-control">
+                                    </div>
+                                    <div class="col-1">
+                                        <label class="form-label">Kode:</label>
+                                        <input type="text" name="nop" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="form_name">NOP SPPT Lama :</label>
+                                            <input id="form_name" type="text" name="name" class="form-control">
+                                        </div>
+                                    </div>
+                                </div>
+
+
 
 
 
