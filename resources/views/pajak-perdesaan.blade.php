@@ -19,13 +19,13 @@
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label for="form_name">No. Formulir :</label>
-                                            <input id="form_name" type="text" name="name" class="form-control">
+                                            <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label for="form_lastname">Badan Pendapatan Daerah :</label>
-                                            <input id="form_lastname" type="text" name="surname" class="form-control">
+                                            <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                         </div>
                                     </div>
                                 </div>
@@ -52,31 +52,31 @@
                                     </div>
                                     <div class="col-1">
                                         <label class="form-label">Prov:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-1">
                                         <label class="form-label">Kota/Kab:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-2">
                                         <label class="form-label">Kec:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-2">
                                         <label class="form-label">Kel:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-2">
                                         <label class="form-label">Blok:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-3">
                                         <label class="form-label">No.Urut:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-1">
                                         <label class="form-label">Kode:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                 </div>
 
@@ -86,31 +86,31 @@
                                     </div>
                                     <div class="col-1">
                                         <label class="form-label">Prov:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-1">
                                         <label class="form-label">Kota/Kab:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-2">
                                         <label class="form-label">Kec:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-2">
                                         <label class="form-label">Kel:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-2">
                                         <label class="form-label">Blok:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-3">
                                         <label class="form-label">No.Urut:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-1">
                                         <label class="form-label">Kode:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                 </div>
                                 <br>
@@ -121,41 +121,60 @@
                                     </div>
                                     <div class="col-1">
                                         <label class="form-label">Prov:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-1">
                                         <label class="form-label">Kota/Kab:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-2">
                                         <label class="form-label">Kec:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-2">
                                         <label class="form-label">Kel:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-2">
                                         <label class="form-label">Blok:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-3">
                                         <label class="form-label">No.Urut:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-1">
                                         <label class="form-label">Kode:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-md-12">
                                         <div class="form-group">
                                             <label for="form_name">NOP SPPT Lama :</label>
-                                            <input id="form_name" type="text" name="name" class="form-control">
+                                            <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                         </div>
                                     </div>
                                 </div>
+                                <h7>DATA LETAK OBJEK PAJAK</h7>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="form_name">Nama Jalan:</label>
+                                            <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="form_name">Blok/Kav/No:</label>
+                                            <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
+                                        </div>
+                                    </div>
+                                </div>
+
+
 
 
 
