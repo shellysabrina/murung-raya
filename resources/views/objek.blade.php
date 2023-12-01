@@ -19,19 +19,19 @@
                                     <div class="col-md-12">
                                         <div class="form-group">
                                             <label for="form_name">Nama Lengkap :</label>
-                                            <input id="form_name" type="text" name="name" class="form-control">
+                                            <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group">
                                             <label for="form_lastname">Alamat Lengkap :</label>
-                                            <input id="form_lastname" type="text" name="surname" class="form-control">
+                                            <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group">
                                             <label for="form_lastname">Luas Tanah :</label>
-                                            <input id="form_lastname" type="text" name="surname" class="form-control">
+                                            <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                         </div>
                                     </div>
 
@@ -57,35 +57,31 @@
                                     </div>
                                     <div class="col-12">
                                         <label class="form-label">Nama Jalan:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-12">
                                         <label class="form-label">Rt/Rw:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <<input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-12">
                                         <label class="form-label">Desa/Kalurahan:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-12">
                                         <label class="form-label">Kecamtan:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-12">
                                         <label class="form-label">Kabupaten/Kota:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                     <div class="col-12">
                                         <label class="form-label">Pemohon:</label>
-                                        <input type="text" name="nop" class="form-control">
+                                        <input class="form-control form-control-sm" type="text" aria-label=".form-control-sm example">
                                     </div>
                                 </div>
                                 <br>
-        
-
-
-
-
+    
                             </div>
 
 
