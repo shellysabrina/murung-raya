@@ -32,3 +32,7 @@ Route::get('/dashboard', function () {
 Route::get('/pajak-perdesaan', function () {
     return view('pajak-perdesaan');
 });
+
+Route::get('/objek', function () {
+    return view('objek');
+});
