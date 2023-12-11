@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+//publik
+
 Route::get('/', function () {
     return view('welcome');
 });
@@ -25,14 +28,22 @@ Route::get('/daftar', function () {
     return view('daftar');
 });
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
-});
-
 Route::get('/pajak-perdesaan', function () {
     return view('pajak-perdesaan');
 });
 
 Route::get('/objek', function () {
     return view('objek');
+});
+
+
+
+//admin
+
+Route::get('/dashboard', function () {
+    return view('dashboard');
+});
+
+Route::get('/sidebar', function () {
+    return view('sidebar');
 });
